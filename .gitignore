@@ -1,0 +1,11 @@
+Debug/
+ipch/
+x64/
+EtherCatDLL.sdf
+EtherCatDLL.VC.db
+EtherCatDLL/Debug/
+EtherCatDLL/x64/
+.vs/
+EtherCatDLL/EtherCatDLL.aps
+
+
